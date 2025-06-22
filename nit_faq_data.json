@@ -1,0 +1,924 @@
+[
+     {
+    "question": "hello, hii, hlw",
+    "answer": "Hi there! How can I assist you about NIT Jalandhar?"
+  },
+    {
+        "question": "What is the full name of NIT Jalandhar?",
+        "answer": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar"
+    },
+    {
+        "question": "Where is NIT Jalandhar located?",
+        "answer": "Jalandhar, Punjab, India"
+    },
+    {
+        "question": "In which year was NIT Jalandhar established?",
+        "answer": "1987"
+    },
+    {
+        "question": "What is the campus area of NIT Jalandhar?",
+        "answer": "Around 154 acres"
+    },
+    {
+        "question": "What is the NIRF 2023 ranking of NIT Jalandhar in Engineering?",
+        "answer": "46th in India (Engineering category)"
+    },
+    {
+        "question": "What are the popular undergraduate courses offered?",
+        "answer": "B.Tech in CSE, ECE, ME, EE, CE, etc."
+    },
+    {
+        "question": "Which entrance exam is required for B.Tech admission?",
+        "answer": "JEE Main"
+    },
+    {
+        "question": "Does NIT Jalandhar have hostel facilities?",
+        "answer": "Yes, it has separate hostels for boys and girls"
+    },
+    {
+        "question": "What are some of the clubs and societies at NIT Jalandhar?",
+        "answer": "Animaniacs, Prayaas (NGO), Tech clubs, Cultural clubs, etc."
+    },
+    {
+        "question": "Who is the current Director of NIT Jalandhar (as of 2024)?",
+        "answer": "Prof. Binod Kumar Kanaujia"
+    },
+    {
+        "question": "How is the overall academic environment at NIT Jalandhar?",
+        "answer": "The academic environment is disciplined, competitive, and research-driven. Students are encouraged to explore beyond the curriculum."
+    },
+    {
+        "question": "Are the professors approachable and helpful outside the classroom?",
+        "answer": "Yes, many professors are approachable through emails or in their offices during designated hours. They support students in doubt-clearing and projects."
+    },
+    {
+        "question": "How is the teaching quality at NITJ across different departments?",
+        "answer": "Varies across departments. Core departments like CSE, ECE, ME, and EE have a strong teaching base with qualified professors and researchers."
+    },
+    {
+        "question": "What is the usual class size for core subjects?",
+        "answer": "For core subjects, class sizes range between 60 to 100 students. Lab batches are usually smaller, around 20-30 students."
+    },
+    {
+        "question": "How difficult is the curriculum at NITJ?",
+        "answer": "The curriculum is moderately challenging. Regular classes, assignments, and projects demand consistent effort."
+    },
+    {
+        "question": "How are lab facilities and practical classes conducted?",
+        "answer": "Labs are well-equipped and conducted weekly. Students are required to maintain lab records and complete experiments under supervision."
+    },
+    {
+        "question": "Do students get exposure to research opportunities?",
+        "answer": "Yes, final-year students work on BTech projects. Research internships under professors and summer programs (SPARK, SURGE, etc.) are encouraged."
+    },
+    {
+        "question": "Are there any special mentorship programs for students?",
+        "answer": "Some departments have faculty advisors/mentors assigned to a group of students. First-year students often get extra mentoring."
+    },
+    {
+        "question": "How supportive is the faculty during project work or thesis?",
+        "answer": "Quite supportive. Faculty members often guide students in choosing topics, conducting experiments, and writing reports."
+    },
+    {
+        "question": "Are there academic support sessions for struggling students?",
+        "answer": "Yes, remedial classes and doubt sessions are arranged. Peer learning is also encouraged through clubs and student-led sessions."
+    },
+    {
+        "question": "How often are assessments or exams conducted?",
+        "answer": "Mid-sem exams are held once a semester. Assignments, quizzes, and practical evaluations happen throughout. End-sems are held at the end of the term."
+    },
+    {
+        "question": "Are the mid-semesters and end-semesters too stressful?",
+        "answer": "If one is consistent with studies, stress is manageable. However, last-minute preparation can be hectic."
+    },
+    {
+        "question": "Are NPTEL or MOOCs encouraged at NITJ?",
+        "answer": "Definitely. Many departments offer NPTEL certification credits and encourage students to enroll in MOOCs from IITs or abroad."
+    },
+    {
+        "question": "What role do electives and open subjects play in academics?",
+        "answer": "Electives help students tailor their education. Open electives allow interdisciplinary exploration and contribute to the CGPA."
+    },
+    {
+        "question": "How easy or hard is it to maintain a good CGPA?",
+        "answer": "Maintaining 7.5+ CGPA is doable with consistency. Scoring 8.5+ requires good performance in both theory and lab courses."
+    },
+    {
+        "question": "How frequently can students interact with professors for guidance?",
+        "answer": "Office hours, lab sessions, email communications, and project reviews are common interaction points."
+    },
+    {
+        "question": "Do professors involve students in publishing research papers?",
+        "answer": "Yes, many professors encourage students to co-author research papers and attend conferences."
+    },
+    {
+        "question": "Is faculty feedback taken seriously by the administration?",
+        "answer": "Yes, student feedback on faculty is collected regularly and used to improve teaching standards."
+    },
+    {
+        "question": "How important is your friend circle in college life?",
+        "answer": "Extremely important! They become your support system, study partners, fun buddies, and sometimes even family away from home."
+    },
+    {
+        "question": "Are students friendly and open to new friendships?",
+        "answer": "Yes, most students are welcoming and open to bonding, especially during the initial orientation and hostel days."
+    },
+    {
+        "question": "How is the ragging situation at NITJ?",
+        "answer": "Ragging is strictly prohibited and not tolerated. NITJ has an anti-ragging committee and helpline. The environment is generally safe and respectful."
+    },
+    {
+        "question": "Are there seniors who guide juniors genuinely?",
+        "answer": "Absolutely! Many seniors are very helpful, offering notes, placement advice, and moral support."
+    },
+    {
+        "question": "Are there common hangout places on campus?",
+        "answer": "Yes! The canteen, juice corner, main ground, and library lawns are common student hangouts."
+    },
+    {
+        "question": "How do students celebrate birthdays or special occasions?",
+        "answer": "With cakes, decoration in hostels, group singing, and often a fun late-night gathering or room party."
+    },
+    {
+        "question": "Is there a good balance between fun and study?",
+        "answer": "Yes, students usually manage both well with proper time management, especially during fest seasons and exams."
+    },
+    {
+        "question": "Do hostels organize events or cultural nights?",
+        "answer": "Yes, each hostel conducts events like DJ nights, talent shows, and hostel day celebrations."
+    },
+    {
+        "question": "How inclusive is the environment for introverts?",
+        "answer": "Fairly inclusive. Clubs and group projects help everyone feel involved, and there's no pressure to socialize beyond comfort."
+    },
+    {
+        "question": "What do students usually do on weekends?",
+        "answer": "They relax, go out with friends, catch up on studies, play sports, or explore the city."
+    },
+    {
+        "question": "Are there any rules for going out of campus?",
+        "answer": "Yes, students usually have to make hostel entries or sign-outs. Timings vary by year and gender."
+    },
+    {
+        "question": "How do students celebrate festivals on campus?",
+        "answer": "With great enthusiasm! Events like Diwali, Holi, Lohri, and Eid are celebrated with performances, food, and cultural activities."
+    },
+    {
+        "question": "Do people form lifetime friendships at NITJ?",
+        "answer": "Definitely. Many friendships formed here continue well beyond college."
+    },
+    {
+        "question": "Are there weekend trips or outings planned by students?",
+        "answer": "Yes, students often plan short trips to nearby places like Amritsar, Chandigarh, or hill stations."
+    },
+    {
+        "question": "What makes NITJ friendships special?",
+        "answer": "Shared hostel life, all-nighters, fests, and the collective experience of growing together create deep bonds."
+    },
+    {
+        "question": "What are the major festivals and cultural events at NITJ?",
+        "answer": "Utkansh (cultural fest), TechNITi (tech fest), Hostel Nights, Lohri, and department events are major highlights."
+    },
+    {
+        "question": "How big is TechNITi and how do students participate?",
+        "answer": "It's one of North India's biggest tech fests. Students participate via workshops, hackathons, robotics, and competitions."
+    },
+    {
+        "question": "What happens during Utkansh, the cultural fest?",
+        "answer": "Utkansh features dance, music, drama, fashion shows, celebrity nights, and a lot of student performances."
+    },
+    {
+        "question": "Are there department-specific fests?",
+        "answer": "Yes, each department organizes technical fests like E-summit (EEE), Epsilon (ECE), and other symposiums."
+    },
+    {
+        "question": "How many active clubs are there at NITJ?",
+        "answer": "Around 25\u201330 active clubs ranging from tech, cultural, sports, literature, coding, and social service."
+    },
+    {
+        "question": "How can one join cultural or technical clubs?",
+        "answer": "Clubs hold orientation sessions in the first few weeks. Interested students can attend and register via forms or auditions."
+    },
+    {
+        "question": "What are some unique clubs (like Prayaas or Animaniacs)?",
+        "answer": "Prayaas (NGO for teaching underprivileged kids), Animaniacs (creative arts), and Rangmanch (drama) are truly unique."
+    },
+    {
+        "question": "Are there any competitive teams like coding clubs or robotics?",
+        "answer": "Yes, teams like Codechef NITJ Chapter, IEEE, and robotics clubs regularly participate in inter-college competitions."
+    },
+    {
+        "question": "Are inter-hostel competitions popular?",
+        "answer": "Very! Events like quizzes, sports, music, and drama between hostels build healthy rivalry and bonding."
+    },
+    {
+        "question": "What is the vibe during fests\u2014academic, fun, or both?",
+        "answer": "A beautiful mix of both! Students showcase talent, learn new skills, and enjoy wholeheartedly."
+    },
+    {
+        "question": "Are students encouraged to lead events or organize them?",
+        "answer": "Yes, student-led organization is the heart of every fest. Leadership roles are open to all."
+    },
+    {
+        "question": "How are student clubs funded or supported by the administration?",
+        "answer": "The administration allocates budgets for registered clubs and events. Sponsors are also approached by students."
+    },
+    {
+        "question": "Are there dance, music, and drama groups?",
+        "answer": "Yes, vibrant teams exist for each. They perform at fests, competitions, and inter-NIT events."
+    },
+    {
+        "question": "Do alumni participate in college fests or events?",
+        "answer": "Yes, especially during reunions or as judges and guest speakers in fests."
+    },
+    {
+        "question": "What\u2019s the most fun memory you have from a fest?",
+        "answer": "Dancing in the rain during Utkansh\u2019s DJ night with friends is unforgettable\u2014pure joy and unity."
+    },
+    {
+        "question": "What sports facilities are available at NIT Jalandhar?",
+        "answer": "Facilities include a cricket ground, basketball, football, volleyball courts, gym, indoor badminton, and table tennis."
+    },
+    {
+        "question": "Is there a gym or fitness center on campus?",
+        "answer": "Yes, there\u2019s a well-equipped gym available to students in the sports complex."
+    },
+    {
+        "question": "Do students play traditional games like kho-kho and kabaddi?",
+        "answer": "Yes, many students play kho-kho, kabaddi, and even gilli-danda during hostel tournaments."
+    },
+    {
+        "question": "Are there athletic fests or sports tournaments?",
+        "answer": "Yes, both inter-NIT and intra-college events are organized annually under \"Saarang\" and other fests."
+    },
+    {
+        "question": "How often do students participate in outdoor games?",
+        "answer": "Regularly. Especially during evenings and weekends, the grounds are full of active students."
+    },
+    {
+        "question": "Are Yoga and meditation practices encouraged?",
+        "answer": "Yes, yoga sessions are held during International Yoga Day and by some fitness clubs."
+    },
+    {
+        "question": "Are there any fitness clubs on campus?",
+        "answer": "Yes, clubs promoting health, yoga, and fitness do organize events and awareness sessions."
+    },
+    {
+        "question": "How are medical facilities and health centers?",
+        "answer": "The campus has a well-functioning health center with doctors, emergency beds, and tie-ups with hospitals."
+    },
+    {
+        "question": "How do students maintain physical fitness during exams?",
+        "answer": "Most stick to walks, short workouts, and some meditation to stay refreshed during high-stress periods."
+    },
+    {
+        "question": "Are the playgrounds well-maintained?",
+        "answer": "Yes, most grounds and courts are regularly maintained by the sports committee and authorities."
+    },
+    {
+        "question": "How modern are the classrooms and lecture halls?",
+        "answer": "They are equipped with projectors, proper seating, and ventilation\u2014fairly modern and comfortable."
+    },
+    {
+        "question": "Is the Wi-Fi connectivity strong across campus?",
+        "answer": "Yes, Wi-Fi is available in hostels, academic blocks, and the library\u2014usually reliable."
+    },
+    {
+        "question": "Are there IT buildings and computer labs for student use?",
+        "answer": "Yes, each department has its own labs. There\u2019s also a central computer center accessible to students."
+    },
+    {
+        "question": "Is the central library accessible and well-stocked?",
+        "answer": "Yes, it\u2019s well-stocked with technical and non-technical books, journals, and a peaceful environment for study."
+    },
+    {
+        "question": "How is the 24x7 reading room used during exams?",
+        "answer": "It\u2019s packed! Students study there overnight. It\u2019s a favorite quiet place, especially during end sems."
+    },
+    {
+        "question": "How far is the NITJ campus from the main city of Jalandhar?",
+        "answer": "Around 10 km from the city center. Autos and buses are easily available for commuting."
+    },
+    {
+        "question": "Are there good cafes, malls, or hangout spots nearby?",
+        "answer": "Yes, places like Model Town, Viva Collage Mall, and local dhabas are popular hangouts."
+    },
+    {
+        "question": "Do students explore local places during weekends?",
+        "answer": "Yes, students often visit nearby cafes, movie halls, temples, and historic spots on weekends."
+    },
+    {
+        "question": "How\u2019s the public transport or auto availability around NITJ?",
+        "answer": "Autos are easily available. Ola and Rapido also work here, making it student-friendly."
+    },
+    {
+        "question": "Is the climate of Jalandhar easy to adjust to?",
+        "answer": "Summers are hot, winters chilly, but manageable. With time, students get used to it."
+    },
+    {
+        "question": "How does NITJ help students grow personally and professionally?",
+        "answer": "Through diverse opportunities\u2014clubs, leadership roles, internships, mentorship, and regular workshops."
+    },
+    {
+        "question": "What were some initial challenges you faced as a fresher?",
+        "answer": "Adjusting to hostel life, managing time, and finding the right friend circle was challenging but rewarding."
+    },
+    {
+        "question": "How do students manage academic pressure and mental health?",
+        "answer": "Peer support, club activities, open campus spaces, and the counseling cell help manage pressure."
+    },
+    {
+        "question": "What values or life lessons did you learn at NIT Jalandhar?",
+        "answer": "Adaptability, teamwork, time management, and that true growth happens outside your comfort zone."
+    },
+    {
+        "question": "If you could give one piece of advice to a fresher at NITJ, what would it be?",
+        "answer": "Be open to learning, make friends, join clubs, and don\u2019t shy away from challenges\u2014they shape you beautifully."
+    },
+    {
+    "question": "What is the placement percentage at NIT Jalandhar?",
+    "answer": "NIT Jalandhar consistently records 80–90% placements across most branches, with CS and IT nearing 100%."
+  },
+  {
+    "question": "Which companies visit NIT Jalandhar for placements?",
+    "answer": "Companies like Microsoft, Amazon, Adobe, Infosys, TCS, Qualcomm, L&T, and Samsung visit for recruitment."
+  },
+  {
+    "question": "How does the placement cell support internships at NIT Jalandhar?",
+    "answer": "The college has a strong placement cell that actively helps students secure internships through drives and workshops."
+  },
+  {
+    "question": "Is coding important for placements at NIT Jalandhar?",
+    "answer": "Yes, especially for IT, CS, and ECE students, coding is crucial. Even non-CS branches benefit from having coding skills."
+  },
+  {
+    "question": "What is the average package at NIT Jalandhar?",
+    "answer": "The average package ranges from ₹7–10 LPA for CS/IT and around ₹5–6 LPA for other core branches."
+  },
+  {
+    "question": "Do core branch students get placed at NIT Jalandhar?",
+    "answer": "Yes, although slightly fewer in number, ME, CE, and ECE students do get placed in both core and software roles."
+  },
+  {
+    "question": "Does NIT Jalandhar have a strong alumni network?",
+    "answer": "Yes, NITJ has a strong alumni network that provides guidance, mentorship, and sometimes referral support."
+  },
+  {
+    "question": "Is there a Training and Placement Cell at NIT Jalandhar?",
+    "answer": "Yes, there is an active Training and Placement Cell (TPC) that handles both internships and placements efficiently."
+  },
+  {
+    "question": "Does NIT Jalandhar provide placement training?",
+    "answer": "Yes, the college conducts regular training sessions, mock interviews, and aptitude workshops."
+  },
+  {
+    "question": "Do core companies recruit from NIT Jalandhar?",
+    "answer": "Core companies like L&T, Maruti Suzuki, Tata, BEL, and Siemens recruit regularly. ECE also gets into IT/Embedded roles."
+  },
+  {
+    "question": "Are there international placement opportunities at NIT Jalandhar?",
+    "answer": "Rare but possible. A few students have secured international placements or internships with companies like Schlumberger and Google."
+  },
+  {
+    "question": "Do students go for higher studies after NIT Jalandhar?",
+    "answer": "A majority opt for jobs, but a significant number pursue MS/M.Tech/MBA, both in India and abroad."
+  },
+  {
+    "question": "Who are the top recruiters at NIT Jalandhar?",
+    "answer": "Top recruiters include Microsoft, Amazon, DE Shaw, Adobe, Qualcomm, JP Morgan, and Texas Instruments."
+  },
+  {
+    "question": "Can students apply off-campus at NIT Jalandhar?",
+    "answer": "Students are encouraged to apply off-campus. The placement cell helps with resume reviews and documentation."
+  },
+  {
+    "question": "Does NIT Jalandhar support research internships abroad?",
+    "answer": "Yes, students are supported in applying for research internships like DAAD (Germany), MITACS (Canada), and NTU (Singapore)."
+  },
+    {
+        "question": "How is the overall academic environment at NIT Jalandhar?",
+        "answer": "The academic environment is competitive yet supportive, with a good balance of theory and practical learning."
+    },
+    {
+        "question": "Are the professors approachable and helpful outside the classroom?",
+        "answer": "Yes, most professors are approachable and willing to help students during office hours or via email."
+    },
+    {
+        "question": "How is the teaching quality across different departments?",
+        "answer": "It varies slightly by department, but overall, teaching is decent with some faculty members being exceptional."
+    },
+    {
+        "question": "What is the usual class size for core subjects?",
+        "answer": "Class sizes typically range from 50 to 80 students, depending on the course and branch."
+    },
+    {
+        "question": "How difficult is the curriculum?",
+        "answer": "The curriculum is moderately tough, especially for core subjects. Regular study and practice are key."
+    },
+    {
+        "question": "How are the lab facilities and practical classes?",
+        "answer": "Labs are fairly well-equipped and practical sessions are taken seriously, though quality may vary by department."
+    },
+    {
+        "question": "Do students get exposure to research opportunities?",
+        "answer": "Yes, especially in the final years; students can participate in faculty-led projects or apply for internships in research labs."
+    },
+    {
+        "question": "Are there any mentorship programs for students?",
+        "answer": "Yes, some departments assign faculty or senior students as mentors, especially for first-years."
+    },
+    {
+        "question": "How supportive is faculty during final year projects?",
+        "answer": "Faculty members are generally supportive and guide students through their BTPs (Bachelor Thesis Projects)."
+    },
+    {
+        "question": "Are there support sessions for struggling students?",
+        "answer": "Some professors and departments arrange remedial classes or doubt-clearing sessions. Peer learning also helps."
+    },
+    {
+        "question": "How often are exams conducted?",
+        "answer": "Typically, there are two major exams per semester: mid-semester and end-semester exams, along with internal assessments."
+    },
+    {
+        "question": "Are exams stressful?",
+        "answer": "They can be, especially end-semesters, but manageable with regular study and preparation."
+    },
+    {
+        "question": "Are MOOCs like NPTEL encouraged?",
+        "answer": "Yes, NPTEL and other MOOCs are highly encouraged, and credits can be earned through them in many cases."
+    },
+    {
+        "question": "How important are electives in overall learning?",
+        "answer": "Electives help broaden learning and can align with personal interests or career goals; they add flexibility to the curriculum."
+    },
+    {
+        "question": "How easy is it to maintain a good CGPA?",
+        "answer": "It\u2019s doable with consistent effort, but maintaining a CGPA above 8 requires discipline and smart studying."
+    },
+    {
+        "question": "How are the hostel facilities?",
+        "answer": "Hostels are decent with good space, basic furniture, and reasonable cleanliness."
+    },
+    {
+        "question": "What is MEGA Hostel F Block like?",
+        "answer": "F Block is part of the Mega Hostel complex, housing mostly final year girls. Rooms are spacious with attached washrooms and balconies."
+    },
+    {
+        "question": "Is the mess food good?",
+        "answer": "It\u2019s average, varies from person to person. North Indian food is more common; taste and quality fluctuate."
+    },
+    {
+        "question": "Can students influence the mess menu?",
+        "answer": "Yes, there\u2019s a mess committee with student representation that can suggest changes in the menu."
+    },
+    {
+        "question": "Are hostels clean and well-maintained?",
+        "answer": "Maintenance is regular, though sometimes students need to raise complaints to get issues addressed promptly."
+    },
+    {
+        "question": "How cooperative are hostel staff and wardens?",
+        "answer": "Mostly cooperative and responsive, especially when approached respectfully."
+    },
+    {
+        "question": "Do rooms have internet access?",
+        "answer": "Yes, all rooms have LAN ports, and Wi-Fi is also available in hostels and academic areas."
+    },
+    {
+        "question": "What are the gate timings for hostels?",
+        "answer": "For girls, it\u2019s usually 9:00 PM. Boys\u2019 hostels have slightly more relaxed timings."
+    },
+    {
+        "question": "Are there night mess options?",
+        "answer": "Not officially, but many students use food delivery apps or visit nearby dhabas."
+    },
+    {
+        "question": "Are there 24/7 study areas available?",
+        "answer": "Yes, there are dedicated reading rooms and library sections open for long hours, especially during exams."
+    },
+    {
+    "question": "What is the full name of NIT Jalandhar?",
+    "answer": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar."
+  },
+  {
+    "question": "Where is NIT Jalandhar located?",
+    "answer": "It is located in Jalandhar, Punjab, India."
+  },
+  {
+    "question": "What is the campus area of NIT Jalandhar?",
+    "answer": "The campus spans approximately 154 acres."
+  },
+  {
+    "question": "Is NIT Jalandhar a government college?",
+    "answer": "Yes, it is an institute of national importance under the Ministry of Education, Government of India."
+  },
+  {
+    "question": "Which entrance exam is required for admission to B.Tech at NIT Jalandhar?",
+    "answer": "Admission to B.Tech programs is through the JEE Main exam."
+  },
+  {
+    "question": "Does NIT Jalandhar offer hostel facilities?",
+    "answer": "Yes, it has separate hostels for boys and girls with all basic amenities."
+  },
+  {
+    "question": "Are the hostels in NIT Jalandhar Wi-Fi enabled?",
+    "answer": "Yes, hostels have Wi-Fi connectivity."
+  },
+  {
+    "question": "Is there a mess facility in the hostel?",
+    "answer": "Yes, each hostel has an attached mess that provides meals."
+  },
+  {
+    "question": "What are the branches offered in B.Tech at NIT Jalandhar?",
+    "answer": "It offers various branches like CSE, ECE, ME, CE, EE, IT, ICE, BT, Textile, Chemical, and more."
+  },
+  {
+    "question": "How is the placement at NIT Jalandhar?",
+    "answer": "The institute has good placement records with many top companies visiting each year."
+  },
+  {
+    "question": "Is there any orientation program for freshers?",
+    "answer": "Yes, an induction/orientation program is conducted to welcome and guide new students."
+  },
+  {
+    "question": "Is ragging allowed in NIT Jalandhar?",
+    "answer": "No, ragging is strictly prohibited and punishable by law."
+  },
+  {
+    "question": "Are there clubs and societies in NIT Jalandhar?",
+    "answer": "Yes, there are various technical, cultural, and social clubs for students."
+  },
+  {
+    "question": "What is the official fest of NIT Jalandhar?",
+    "answer": "The official tech fest is 'TechNITi' and the cultural fest is 'Utkansh'."
+  },
+  {
+    "question": "Is medical facility available on campus?",
+    "answer": "Yes, the institute has a health center with doctors and ambulance services."
+  },
+  {
+    "question": "Are there sports facilities at NIT Jalandhar?",
+    "answer": "Yes, the campus has playgrounds, courts, a gym, and various indoor games."
+  },
+  {
+    "question": "What is the dress code for students?",
+    "answer": "There is no fixed dress code except during labs or presentations where formal attire is preferred."
+  },
+  {
+    "question": "Is there a library in NIT Jalandhar?",
+    "answer": "Yes, the central library is well-stocked and digitally accessible."
+  },
+  {
+    "question": "Can students use labs after class hours?",
+    "answer": "Yes, with permission, students can access labs for project or research work."
+  },
+  {
+    "question": "Are there 24/7 study areas available?",
+    "answer": "Yes, the central library and some reading halls are available for late-night study."
+  },
+  {
+    "question": "What are the hostel rules for freshers?",
+    "answer": "Freshers must follow rules like entry timings, no ragging, and hostel cleanliness."
+  },
+  {
+    "question": "Is there an ATM on campus?",
+    "answer": "Yes, ATMs of major banks are available inside the campus."
+  },
+  {
+    "question": "Are there shops for daily essentials inside the campus?",
+    "answer": "Yes, campus shops are available for stationery, snacks, and other items."
+  },
+  {
+    "question": "What is the medium of instruction?",
+    "answer": "The medium of instruction is English."
+  },
+  {
+    "question": "What is the grading system at NIT Jalandhar?",
+    "answer": "NITJ follows a 10-point CGPA grading system."
+  },
+  {
+    "question": "Is internet access available in hostels?",
+    "answer": "Yes, students have access to high-speed internet."
+  },
+  {
+    "question": "Can students cook food in hostels?",
+    "answer": "Cooking is generally not allowed in hostel rooms due to safety reasons."
+  },
+  {
+    "question": "Is there a transportation facility within the campus?",
+    "answer": "The campus is walkable, and bicycles are commonly used."
+  },
+  {
+    "question": "What should freshers carry on the first day?",
+    "answer": "Important documents, ID proofs, and hostel essentials like bedding and toiletries."
+  },
+  {
+    "question": "Is there any mentorship program for freshers?",
+    "answer": "Yes, senior students and faculty often mentor freshers academically and personally."
+  },
+  {
+      "question": "To whom should I approach for the various certificates?",
+      "answer": "For bonafide certificate – concerned batch in-charge in the Academic Section. For fee structure or fee receipts – Accounts Section."
+    },
+    {
+      "question": "To whom should I approach for the Hostel related issue?",
+      "answer": "You need to approach Chief Warden at cw@nitj.ac.in."
+    },
+    {
+      "question": "I have not paid the semester fee. Who should be approached for payment?",
+      "answer": "You need to write to your batch in-charge for allowing you to make payment of the semester fee."
+    },
+    {
+      "question": "I have not registered for the semester. Who should be approached for registration?",
+      "answer": "You need to write to your batch in-charge for allowing you to make registration for the semester."
+    },
+    {
+      "question": "I need a certain number of days of leave. Who should be approached for this?",
+      "answer": "You may approach your faculty advisor and submit the application in the concerned Department. You must check the B Tech regulations uploaded on the Institute website under the Academic menu for admissible leave."
+    },
+    {
+      "question": "What is the duration of the B Tech programme?",
+      "answer": "It is 04 years."
+    },
+    {
+      "question": "Is internship available in the B Tech programme?",
+      "answer": "Yes, there is a provision of 06 months’ internship in the 8th semester in the B. Tech programme."
+    },
+    {
+      "question": "What is the grading system in the B Tech programme?",
+      "answer": "Please refer to para-3 of the B Tech regulations of the Institute. The link of the B Tech regulations is: https://www.nitj.ac.in/nitj_files/links/B_10610.pdf"
+    },
+    {
+      "question": "I have not paid the semester fee. Am I still the student of the Institute?",
+      "answer": "No, once you have not paid the semester fee in the stipulated schedule in the beginning of the semester you cease to be the student of the Institute."
+    },
+    {
+      "question": "What are the criteria for the Addition, Deletion, Audit and Withdrawal from Courses?",
+      "answer": "The following are the criteria:\n(i) Add and Drop: A student has the option to add or delete courses during the first week of the semester.\n(ii) Audit: A student may apply to change a credit course to an audit one within one week of the end of the first class test.\n(iii) Withdrawal: A student who wants to withdraw from a course should apply within one week of the end of the first class test. A withdrawal grade (W) will be awarded in such cases."
+    },
+    {
+      "question": "What is the attendance criteria for appearing in the exam?",
+      "answer": "Please refer to para-10 of the B Tech regulations of the Institute."
+    },
+    {
+      "question": "Is there any provision for change of branch in the B Tech programme?",
+      "answer": "Yes, there is a provision for change of branch on completion of 1st year of B Tech programme. For details refer to para-14 of the B Tech regulations of the Institute."
+    },
+    {
+      "question": "What are the requirements to be fulfilled for award of B.Tech. Degree?",
+      "answer": "Please refer to para-17 of the B Tech regulations of the Institute."
+    },
+    {
+        "question": "Whom should I approach for various certificates?",
+        "answer": {
+          "bonafide": "Contact your concerned Batch In-Charge in the Academic Section.",
+          "fee_structure_or_receipts": "Visit the Accounts Section."
+        }
+      },
+      {
+        "question": "Whom should I approach for hostel-related issues?",
+        "answer": "Contact the Chief Warden at cw@nitj.ac.in"
+      },
+      {
+        "question": "I have not paid the semester fee. Whom should I approach for payment?",
+        "answer": "Write to your Batch In-Charge seeking permission to pay the semester fee."
+      },
+      {
+        "question": "I have not registered for the semester. Whom should I approach for registration?",
+        "answer": "Write to your Batch In-Charge requesting permission for semester registration."
+      },
+      {
+        "question": "I need leave for a few days. Whom should I approach?",
+        "answer": "Submit your leave application to your Faculty Advisor/Supervisor and submit it in your concerned Department. Refer to the respective programme regulations for admissible leave."
+      },
+      {
+        "question": "What is the maximum duration of the M.Tech programme?",
+        "answer": "Refer to Para 6 of the M.Tech Regulations."
+      },
+      {
+        "question": "What is the internship policy for the M.Tech programme?",
+        "answer": "Refer to Para 3.7 of the M.Tech Regulations."
+      },
+      {
+        "question": "What are the criteria for Faculty/Supervisor/Coordinator allotment for project work?",
+        "answer": "Refer to Para 5 of the M.Tech Regulations."
+      },
+      {
+        "question": "What are the leave rules for full-time M.Tech students?",
+        "answer": "Refer to Para 11 of the M.Tech Regulations."
+      },
+      {
+        "question": "Can I improve my CGPA in the M.Tech programme?",
+        "answer": "Yes. Refer to Para 14 of the M.Tech Regulations."
+      },
+      {
+        "question": "What is the maximum duration of the M.Sc programme?",
+        "answer": "Refer to Para 6 of the M.Sc Regulations."
+      },
+      {
+        "question": "What is the minimum requirement to continue in the M.Sc programme?",
+        "answer": "Refer to Para 7 of the M.Sc Regulations."
+      },
+      {
+        "question": "What is the minimum CGPA requirement for the M.Sc programme?",
+        "answer": "Refer to Para 8 of the M.Sc Regulations."
+      },
+      {
+        "question": "What is the grading system for the M.Sc programme?",
+        "answer": "Refer to Para 10.1 of the M.Sc Regulations."
+      },
+      {
+        "question": "What are the broad areas of specialization in the MBA programme?",
+        "answer": "Refer to Para 2.5 of the MBA Regulations."
+      },
+      {
+        "question": "What is the minimum and maximum duration of the MBA programme?",
+        "answer": "Refer to Para 6 of the MBA Regulations."
+      },
+      {
+        "question": "What is the minimum requirement to continue in the MBA programme?",
+        "answer": "Refer to Para 7.1 of the MBA Regulations."
+      },
+      {
+        "question": "What is the attendance requirement in the MBA programme?",
+        "answer": "Refer to Para 7.2 of the MBA Regulations."
+      },
+      {
+        "question": "What is the academic system followed in the MBA programme?",
+        "answer": "Refer to Para 9 of the MBA Regulations."
+      },
+      {
+      "question": "To whom should I approach for various certificates?",
+        "answer": {
+          "bonafide": "Contact your concerned Batch In-Charge in the Academic Section.",
+          "fee_structure_or_receipts": "Visit the Accounts Section."
+        }
+      },
+      {
+        "question": "I have not paid the semester fee. Whom should I approach for payment?",
+        "answer": "Write to your Batch In-Charge seeking permission to pay the semester fee."
+      },
+      {
+        "question": "I have not registered for the semester. Whom should I approach for registration?",
+        "answer": "Write to your Batch In-Charge requesting permission for semester registration."
+      },
+      {
+        "question": "I need leave for a few days. Whom should I approach?",
+        "answer": "Approach your Supervisor and submit the leave application in the concerned Department. Refer to the PhD regulations on the Institute website under the Academic menu for admissible leave."
+      },
+      {
+        "question": "What is the maximum duration of the PhD programme?",
+        "answer": "The maximum duration is 5 years."
+      },
+      {
+        "question": "What is the criteria for appointment of the PhD Supervisor?",
+        "answer": "Refer to Para 3.1 of the PhD regulations of the Institute."
+      },
+      {
+        "question": "What are the provisions for semester drop in the PhD programme?",
+        "answer": "Refer to Para 5.3 of the PhD regulations of the Institute."
+      },
+      {
+        "question": "What is the duration of the PhD programme?",
+        "answer": "The duration of the PhD programme is 5 years."
+      },
+      {
+        "question": "What are the course work requirements for the PhD programme?",
+        "answer": "Refer to Para 7 of the PhD regulations of the Institute."
+      },
+      {
+        "question": "What are the attendance requirements for the PhD programme?",
+        "answer": "Refer to Para 7.3 of the PhD regulations of the Institute."
+      },
+      {
+        "question": "What are the leave rules for regular PhD scholars?",
+        "answer": "Refer to Para 8 of the PhD regulations of the Institute."
+      },
+       {
+      "question": "How is the campus of NIT Jalandhar?",
+      "answer": "The campus of NIT Jalandhar is spacious, green, and well-maintained. It offers a peaceful environment for study and personal development."
+    },
+    {
+      "question": "How is the hostel life there?",
+      "answer": "Hostel life at NIT Jalandhar is lively and engaging. Students from all over India live together, and it helps build lasting friendships and memories."
+    },
+    {
+      "question": "Is the food in the mess okay?",
+      "answer": "The mess food is average, with a rotating menu. While not like home food, it is hygienic and manageable for most students."
+    },
+    {
+      "question": "Does ragging happen in the college?",
+      "answer": "No, ragging is strictly prohibited. The institute has a zero-tolerance policy towards ragging and a proper anti-ragging committee in place."
+    },
+    {
+      "question": "How are the placements at NIT Jalandhar?",
+      "answer": "Placements are good, especially for CSE, IT, and ECE branches. Core and non-core companies visit the campus with decent packages and job roles."
+    },
+    {
+      "question": "Is there a chance to change branch after first year?",
+      "answer": "Yes, branch change is possible after the first year based on academic performance and availability of seats in the desired branch."
+    },
+    {
+      "question": "What is the JEE Main score required to get into this college?",
+      "answer": "The required JEE Main score varies by branch and category. Generally, ranks under 40,000 (for general category) are safe for some branches."
+    },
+    {
+      "question": "Are the seniors helpful?",
+      "answer": "Yes, most seniors are friendly and very helpful, especially when it comes to academics, internships, and college activities."
+    },
+    {
+      "question": "Are the college fests fun?",
+      "answer": "Yes, the college hosts exciting cultural and technical fests like TechNITi and Utkansh, which are full of fun events, competitions, and performances."
+    },
+    {
+      "question": "Is attendance strict?",
+      "answer": "Yes, a minimum of 75% attendance is usually required in most subjects. Some professors are strict about attendance."
+    },
+    {
+      "question": "How do students join clubs and societies?",
+      "answer": "Students can join clubs through orientation sessions, auditions, or interviews conducted at the start of the academic year."
+    },
+    {
+      "question": "How are the professors – strict or chill?",
+      "answer": "Professors are generally knowledgeable and supportive. Some are strict, but most are approachable and open to student discussions."
+    },
+    {
+      "question": "Is the internet and Wi-Fi facility good in the hostels?",
+      "answer": "Yes, high-speed internet and Wi-Fi are available in hostels, though there may be occasional connectivity issues."
+    },
+    {
+      "question": "Are there good places to visit nearby?",
+      "answer": "Yes, places like Wonderland Amusement Park, Pushpa Gujral Science City, and Amritsar (Golden Temple) are nearby weekend getaways."
+    },
+    {
+      "question": "How are the sports and gym facilities?",
+      "answer": "The institute has good sports grounds and a well-equipped gym. Students actively participate in various games and athletic events."
+    },
+    {
+    "question": "What is TechNITi?",
+    "answer": "TechNITi is the annual techno-management fest of NIT Jalandhar, showcasing technological innovations, competitions, workshops, and guest lectures."
+  },
+  {
+    "question": "When does TechNITi take place?",
+    "answer": "TechNITi usually takes place in the odd semester, around September or October, every academic year."
+  },
+  {
+    "question": "What are the events organized during TechNITi?",
+    "answer": "TechNITi features events like coding competitions, robotics challenges, case study presentations, quizzes, drone wars, and technical exhibitions."
+  },
+  {
+    "question": "What is Utkansh?",
+    "answer": "Utkansh is the annual cultural fest of NIT Jalandhar, celebrating art, music, dance, drama, and student creativity."
+  },
+  {
+    "question": "When does Utkansh happen?",
+    "answer": "Utkansh usually happens during the even semester, typically in March or April."
+  },
+  {
+    "question": "What are the events in Utkansh?",
+    "answer": "Utkansh includes events like group dance, solo singing, drama, fashion show, battle of bands, literary events, and celebrity night performances."
+  },
+  {
+    "question": "How many departments are there in NIT Jalandhar?",
+    "answer": "NIT Jalandhar has a total of 15 academic departments including Engineering, Sciences, and Humanities."
+  },
+  {
+    "question": "What are the engineering departments at NIT Jalandhar?",
+    "answer": "The engineering departments include Computer Science and Engineering, Electronics and Communication Engineering, Electrical Engineering, Mechanical Engineering, Civil Engineering, Chemical Engineering, Industrial and Production Engineering, Instrumentation and Control Engineering, and Textile Technology."
+  },
+  {
+    "question": "What are the science and humanities departments at NIT Jalandhar?",
+    "answer": "Science and humanities departments include Physics, Chemistry, Mathematics, Humanities and Management, Bio-Technology, and Centre for Energy and Environment."
+  },
+  {
+    "question": "What programs are offered by NIT Jalandhar?",
+    "answer": "NIT Jalandhar offers B.Tech, M.Tech, M.Sc., MBA, and Ph.D. programs across various departments."
+  },
+  {
+    "question": "Which department is considered the best at NIT Jalandhar?",
+    "answer": "The Computer Science and Engineering department is highly preferred due to high placement packages, followed by ECE, IT, and Mechanical departments. However, each department has its own excellence and achievements."
+  },
+  {
+    "question": "What are some notable achievements of the CSE department?",
+    "answer": "CSE students have secured top placements in companies like Amazon, Microsoft, and Google. They also participate in ICPC, GSoC, and publish in reputed journals and conferences."
+  },
+  {
+    "question": "What is the research focus of the ECE department?",
+    "answer": "The ECE department focuses on VLSI design, embedded systems, signal processing, and communication systems with active research and funded projects from DRDO and DST."
+  },
+  {
+    "question": "What work is done by the Mechanical Engineering department?",
+    "answer": "The Mechanical Engineering department is involved in robotics, manufacturing processes, CAD/CAM, and has developed solar-powered vehicles and 3D printed models."
+  },
+  {
+    "question": "What is unique about the Textile Technology department?",
+    "answer": "NITJ’s Textile Technology department is one of the best in India, known for its research in fiber science, nanotechnology, and industry collaboration with top textile firms."
+  },
+  {
+    "question": "Does NIT Jalandhar promote interdisciplinary work?",
+    "answer": "Yes, the institute promotes interdisciplinary research and projects, especially in areas like AI & ML, renewable energy, and IoT involving multiple departments."
+  },
+  {
+    "question": "Which department organizes tech fests and workshops?",
+    "answer": "Various departments organize workshops, hackathons, and conferences. CSE conducts coding events, ECE and ICE departments conduct IoT and Robotics workshops during TechNITi."
+  }
+]

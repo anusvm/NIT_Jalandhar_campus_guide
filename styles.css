@@ -1,0 +1,357 @@
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+:root {
+    --primary-color: #004080;
+    --secondary-color: #0080ff;
+    --text-color: #ffffff;
+    --bg-color: #f5f5f5;
+    --dark-bg: #002b5e;
+    --hover-color: #0056b3;
+}
+
+/* Reset & Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+/* Navigation Bar */
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: var(--primary-color);
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 15px;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: var(--hover-color);
+}
+
+/* Home Section */
+#home {
+    background: url('images/background.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: var(--text-color);
+    position: relative;
+}
+
+#home .overlay {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+#home h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#home p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.explore-btn {
+    padding: 12px 24px;
+    background: var(--secondary-color);
+    border: none;
+    color: var(--text-color);
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.explore-btn:hover {
+    background: var(--hover-color);
+}
+
+/* Sections General */
+section {
+    padding: 60px 10%;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: var(--dark-bg);
+}
+
+/* About Section */
+.about-image img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Campus Places */
+.places-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.place {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.place img {
+    width: 100%;
+    border-radius: 5px;
+    height: 150px;
+    object-fit: cover;
+}
+
+/* Courses */
+#courses ul {
+    list-style: none;
+}
+
+#courses li {
+    font-size: 18px;
+    padding: 5px 0;
+}
+
+/* FAQ Section */
+.faq-item {
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+.faq-question {
+    background: none;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+}
+
+.faq-answer {
+    display: none;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+/* Contact */
+#contact p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+/* Chatbot */
+#chatbot-window {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#chatbot-input {
+    width: 80%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#chatbot-send {
+    padding: 10px;
+    cursor: pointer;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+}
+
+/* Footer */
+footer {
+    background: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #home h1 {
+        font-size: 36px;
+    }
+
+    section {
+        padding: 40px 5%;
+    }
+
+    .places-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #home {
+        height: 80vh;
+    }
+
+    #home h1 {
+        font-size: 28px;
+    }
+
+    .faq-question {
+        font-size: 16px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    #home h1 {
+        font-size: 24px;
+    }
+
+    #home p {
+        font-size: 16px;
+    }
+
+    .explore-btn {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    section h2 {
+        font-size: 28px;
+    }
+
+    .faq-question {
+        font-size: 14px;
+    }
+}
+
+.event-box {
+  border: 2px solid #0b5394;
+  border-radius: 12px;
+  padding: 1rem;
+  max-width: 700px;
+  margin: auto;
+  background-color: white;
+}
+
+.tabs {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 1rem;
+}
+
+.tab {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 8px 8px 0 0;
+}
+
+.tab.active {
+  background-color: #d9eaff;
+  border: 1px solid #0b5394;
+  border-bottom: none;
+}
+
+.form-section {
+  margin-bottom: 1.5rem;
+}
+
+.form-section input {
+  margin: 0.5rem 0;
+  padding: 0.4rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-section button {
+  padding: 0.5rem 1rem;
+  background-color: #0b5394;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.form-section button:hover {
+  background-color: #08386a;
+}
+
+.event {
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+  margin-top: 1rem;
+}
+
+.event h4 {
+  margin: 0;
+}
+
+.new-badge {
+  color: red;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
